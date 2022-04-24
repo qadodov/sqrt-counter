@@ -1,0 +1,4 @@
+"squares counted, bottom border included",100,144,3
+"squares counted, top border included",9409,9801,3
+'no squares in range included',1,99,0
+'max amount of squares in range',100,9801,90
